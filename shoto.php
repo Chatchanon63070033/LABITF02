@@ -64,7 +64,7 @@
                 </div>
                 <p class="card-text">
                   Katsuki employing his Quirk's versatility in his fighting
-                  style Explosion!!
+                  style Explosion!!    lllllllll
                 </p>
                 <p>
                   <a href="#" class="btn btn-danger">Read more</a>
